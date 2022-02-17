@@ -1,0 +1,21 @@
+../mbed-os-build/connectivity/nanostack/coap-service/source/coap_message_handler.o: \
+ connectivity/nanostack/coap-service/source/coap_message_handler.c \
+ /home/ee2405/ee2405/mbed-os-build/mbed_config.h \
+ connectivity/libraries/nanostack-libservice/mbed-client-libservice/nsdynmemLIB.h \
+ connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
+ connectivity/nanostack/coap-service/source/include/coap_service_api_internal.h \
+ connectivity/nanostack/coap-service/source/include/coap_message_handler.h \
+ connectivity/libraries/mbed-coap/mbed-coap/sn_coap_header.h \
+ connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_list.h \
+ connectivity/nanostack/coap-service/source/include/coap_message_handler.h \
+ connectivity/libraries/mbed-coap/mbed-coap/sn_coap_protocol.h \
+ connectivity/libraries/mbed-coap/mbed-coap/sn_coap_header.h \
+ connectivity/libraries/mbed-coap/source/include/sn_coap_protocol_internal.h \
+ connectivity/libraries/mbed-coap/source/include/sn_coap_header_internal.h \
+ connectivity/libraries/mbed-coap/mbed-coap/sn_config.h \
+ connectivity/nanostack/sal-stack-nanostack/nanostack/socket_api.h \
+ connectivity/nanostack/sal-stack-nanostack/nanostack/ns_address.h \
+ connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
+ connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_trace.h \
+ platform/mbed-trace/include/mbed-trace/mbed_trace.h \
+ platform/randlib/include/mbed-client-randlib/randLIB.h

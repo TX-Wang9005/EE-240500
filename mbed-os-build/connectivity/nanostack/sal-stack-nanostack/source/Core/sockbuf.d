@@ -1,0 +1,28 @@
+../mbed-os-build/connectivity/nanostack/sal-stack-nanostack/source/Core/sockbuf.o: \
+ connectivity/nanostack/sal-stack-nanostack/source/Core/sockbuf.c \
+ /home/ee2405/ee2405/mbed-os-build/mbed_config.h \
+ connectivity/nanostack/sal-stack-nanostack/source/nsconfig.h \
+ connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/cfg_nanostack_full.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/cfg_generic.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_thread_border_router.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_thread_router.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_thread_full_end_device.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_thread_end_device.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_ethernet.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_lowpan_border_router.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_lowpan_router.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_lowpan_host.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_local_socket.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_rf_tunnel.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_ws_border_router.h \
+ connectivity/nanostack/sal-stack-nanostack/source/configs/base/cfg_ws_router.h \
+ connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_trace.h \
+ connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
+ platform/mbed-trace/include/mbed-trace/mbed_trace.h \
+ connectivity/nanostack/sal-stack-nanostack/source/Core/include/sockbuf.h \
+ connectivity/nanostack/sal-stack-nanostack/source/Core/include/ns_buffer.h \
+ connectivity/nanostack/sal-stack-nanostack/source/Core/include/ns_address_internal.h \
+ connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_list.h \
+ connectivity/nanostack/sal-stack-nanostack/source/NWK_INTERFACE/Include/protocol_abstract.h \
+ connectivity/nanostack/sal-stack-nanostack/source/ipv6_stack/ipv6_routing_table.h

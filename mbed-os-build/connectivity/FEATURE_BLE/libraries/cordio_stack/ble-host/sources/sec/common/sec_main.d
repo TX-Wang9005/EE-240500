@@ -1,0 +1,22 @@
+../mbed-os-build/connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/sources/sec/common/sec_main.o: \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/sources/sec/common/sec_main.c \
+ /home/ee2405/ee2405/mbed-os-build/mbed_config.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_types.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_queue.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_msg.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_queue.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_os.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_types.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_trace.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_assert.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_trace.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/include/sec_api.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/sources/sec/common/sec_main.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/include/hci_api.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/hci_defs.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_os.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/util/bda.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/platform/include/pal_crypto.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/platform/include/pal_types.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/util/calc128.h \
+ connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/util/wstr.h
